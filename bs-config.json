@@ -1,0 +1,11 @@
+{
+    "server": {
+      "baseDir": "./",
+      "index": "index.html"
+    },
+    "files": ["*.html", "*.css", "*.ts"],
+    "scripts": {
+      "start": "tsc -w"
+    }
+  }
+  

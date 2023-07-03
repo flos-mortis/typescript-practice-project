@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "ES5",
+      "module": "ESNext",
+      "outDir": "dist"
+    },
+    "include": [
+      "utils.ts",
+      "index.ts"
+    ]
+  }
+  
